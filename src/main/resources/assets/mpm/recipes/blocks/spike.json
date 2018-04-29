@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#S#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "S": {
+            "item": "minecraft:stone",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "mpm:spike_block",
+        "count": 1,
+        "data": 0
+    }
+}

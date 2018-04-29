@@ -1,0 +1,12 @@
+{
+    "entity.bramble.hurt":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+            "mpm:entity/bramble/hurt1",
+            "mpm:entity/bramble/hurt2",
+            "mpm:entity/bramble/hurt3"
+        ]
+    }
+}

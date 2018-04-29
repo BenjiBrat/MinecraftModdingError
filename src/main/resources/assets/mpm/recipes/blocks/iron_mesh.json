@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        " # ",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        }
+    
+    },
+    "result": {
+        "item": "mpm:iron_mesh",
+        "count": 1,
+        "data": 0
+    }
+}

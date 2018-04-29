@@ -1,0 +1,27 @@
+# Items
+
+item.draconite.name=Draconite
+item.bone_frag.name=Bone Fragments
+
+# Blocks
+
+tile.spike_block.name=Spike Block
+tile.iron_mesh.name=Iron Mesh
+tile.draconite_ore.name=Draconite Ore
+
+# Entities
+
+entity.infector.name=Infector
+entity.sporeager.name=Sporeager
+entity.bramble.name=Bramble
+
+# Villager Careers
+entity.Villager.redstoner=Redstone Fanatic
+entity.Villager.engineer=Engineer
+entity.Villager.trapper=Trapper
+entity.Villager.miner=Miner
+
+# Death Messages
+
+death.attack.spike=%1$s was spiked to death
+death.attack.spike.player=%1$s was spiked to death whilst trying to escape %2$s

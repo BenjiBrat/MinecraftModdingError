@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mpm",
+  "name": "Minecraft Plus",
+  "description": "Minecraft Plus adds things from the community suggestions, and some.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BenjiBrat"],
+  "credits": "All of the Minecraft Community",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

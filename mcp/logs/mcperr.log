@@ -1,0 +1,22 @@
+10:44:00 - Json file not found in C:\Users\Kids\AppData\Roaming\.minecraft\versions\1.12\1.12.json
+10:44:00 - Please run launcher & Minecraft at least once.
+10:44:06 - Json file not found in C:\Users\Kids\AppData\Roaming\.minecraft\versions\1.12\1.12.json
+10:44:06 - Please run launcher & Minecraft at least once.
+10:47:18 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+10:47:20 - FATAL ERROR
+Traceback (most recent call last):
+  File "runtime\decompile.py", line 63, in decompile
+    commands.checkupdates()
+  File "C:\Users\Kids\Desktop\Minecraft Plus\MinecraftPlusMod\mcp\runtime\commands.py", line 1063, in checkupdates
+    md5_file = md5(fh.read()).hexdigest()
+IOError: [Errno 13] Permission denied
+10:47:56 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+10:47:58 - FATAL ERROR
+Traceback (most recent call last):
+  File "runtime\decompile.py", line 63, in decompile
+    commands.checkupdates()
+  File "C:\Users\Kids\Desktop\Minecraft Plus\MinecraftPlusMod\mcp\runtime\commands.py", line 1063, in checkupdates
+    md5_file = md5(fh.read()).hexdigest()
+IOError: [Errno 13] Permission denied
+10:48:55 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+10:49:21 - !! Modified jar detected. Unpredictable results !!
